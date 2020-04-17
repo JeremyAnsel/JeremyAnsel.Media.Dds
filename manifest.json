@@ -1,0 +1,269 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/projects/jeremyansel-media-dds/JeremyAnsel.Media.Dds/Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.Dds.DdsAdditionalCaps.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.Dds.DdsAdditionalCaps.html",
+          "hash": "TBQWWhh7ilHy9zEbx3Cp9A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.Dds.DdsAlphaMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.Dds.DdsAlphaMode.html",
+          "hash": "hjXx8Cv72mymEaU2nHo1tg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.Dds.DdsCaps.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.Dds.DdsCaps.html",
+          "hash": "aoWp6VKjdWrekHQOtF5FVg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.Dds.DdsFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.Dds.DdsFile.html",
+          "hash": "PPsR7pFD6dy4IwcxKIitaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.Dds.DdsFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.Dds.DdsFormat.html",
+          "hash": "3sRntZU0IJzeugVmbrNdEw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.Dds.DdsFourCC.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.Dds.DdsFourCC.html",
+          "hash": "9um3Pd557rzs1ygrvO1Ing=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.Dds.DdsHelpers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.Dds.DdsHelpers.html",
+          "hash": "PwAgI/L37HA4LsdFZnXLKw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.Dds.DdsOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.Dds.DdsOptions.html",
+          "hash": "hP3zPC9AWlBskGut6cRMrA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.Dds.DdsPixelFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.Dds.DdsPixelFormat.html",
+          "hash": "j0Vhqw1P91V+nk2xZFEWgA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.Dds.DdsPixelFormatOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.Dds.DdsPixelFormatOptions.html",
+          "hash": "KiFWOSPhS/x2rJ6Ttjsxqg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.Dds.DdsResourceDimension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.Dds.DdsResourceDimension.html",
+          "hash": "VwMqjE1DnFklKf4k2RuBsg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.Dds.DdsResourceMiscOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.Dds.DdsResourceMiscOptions.html",
+          "hash": "Ay5/ESUR/dd+Enrs+yFXbg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.Dds.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.Dds.html",
+          "hash": "dWqM+ZbJSrOIP+FCSh95uQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "Hp7FWxPw1f7PIlOKLOsO1Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "BizLHc7h/vTgrE3HxovEDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "AiEubF2/R/jRLgO6Fh5b6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "7tcmfYhmXQSuypJFsgdqeA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 13,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
