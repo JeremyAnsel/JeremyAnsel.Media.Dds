@@ -238,11 +238,14 @@ references:
   fullName: JeremyAnsel.Media.Dds.DdsFile.Format
   nameWithType: DdsFile.Format
 - uid: JeremyAnsel.Media.Dds.DdsFile.FromFile(System.String)
-  name: FromFile(String)
+  name: FromFile(string)
   href: api/JeremyAnsel.Media.Dds.DdsFile.html#JeremyAnsel_Media_Dds_DdsFile_FromFile_System_String_
   commentId: M:JeremyAnsel.Media.Dds.DdsFile.FromFile(System.String)
-  fullName: JeremyAnsel.Media.Dds.DdsFile.FromFile(System.String)
-  nameWithType: DdsFile.FromFile(String)
+  name.vb: FromFile(String)
+  fullName: JeremyAnsel.Media.Dds.DdsFile.FromFile(string)
+  fullName.vb: JeremyAnsel.Media.Dds.DdsFile.FromFile(String)
+  nameWithType: DdsFile.FromFile(string)
+  nameWithType.vb: DdsFile.FromFile(String)
 - uid: JeremyAnsel.Media.Dds.DdsFile.FromFile*
   name: FromFile
   href: api/JeremyAnsel.Media.Dds.DdsFile.html#JeremyAnsel_Media_Dds_DdsFile_FromFile_
@@ -1221,14 +1224,14 @@ references:
   fullName: JeremyAnsel.Media.Dds.DdsHelpers.GetBitsPerPixel
   nameWithType: DdsHelpers.GetBitsPerPixel
 - uid: JeremyAnsel.Media.Dds.DdsHelpers.GetSurfaceInfo(System.Int32,System.Int32,JeremyAnsel.Media.Dds.DdsFormat,System.Int32@,System.Int32@,System.Int32@)
-  name: GetSurfaceInfo(Int32, Int32, DdsFormat, out Int32, out Int32, out Int32)
+  name: GetSurfaceInfo(int, int, DdsFormat, out int, out int, out int)
   href: api/JeremyAnsel.Media.Dds.DdsHelpers.html#JeremyAnsel_Media_Dds_DdsHelpers_GetSurfaceInfo_System_Int32_System_Int32_JeremyAnsel_Media_Dds_DdsFormat_System_Int32__System_Int32__System_Int32__
   commentId: M:JeremyAnsel.Media.Dds.DdsHelpers.GetSurfaceInfo(System.Int32,System.Int32,JeremyAnsel.Media.Dds.DdsFormat,System.Int32@,System.Int32@,System.Int32@)
-  name.vb: GetSurfaceInfo(Int32, Int32, DdsFormat, ByRef Int32, ByRef Int32, ByRef Int32)
-  fullName: JeremyAnsel.Media.Dds.DdsHelpers.GetSurfaceInfo(System.Int32, System.Int32, JeremyAnsel.Media.Dds.DdsFormat, out System.Int32, out System.Int32, out System.Int32)
-  fullName.vb: JeremyAnsel.Media.Dds.DdsHelpers.GetSurfaceInfo(System.Int32, System.Int32, JeremyAnsel.Media.Dds.DdsFormat, ByRef System.Int32, ByRef System.Int32, ByRef System.Int32)
-  nameWithType: DdsHelpers.GetSurfaceInfo(Int32, Int32, DdsFormat, out Int32, out Int32, out Int32)
-  nameWithType.vb: DdsHelpers.GetSurfaceInfo(Int32, Int32, DdsFormat, ByRef Int32, ByRef Int32, ByRef Int32)
+  name.vb: GetSurfaceInfo(Integer, Integer, DdsFormat, Integer, Integer, Integer)
+  fullName: JeremyAnsel.Media.Dds.DdsHelpers.GetSurfaceInfo(int, int, JeremyAnsel.Media.Dds.DdsFormat, out int, out int, out int)
+  fullName.vb: JeremyAnsel.Media.Dds.DdsHelpers.GetSurfaceInfo(Integer, Integer, JeremyAnsel.Media.Dds.DdsFormat, Integer, Integer, Integer)
+  nameWithType: DdsHelpers.GetSurfaceInfo(int, int, DdsFormat, out int, out int, out int)
+  nameWithType.vb: DdsHelpers.GetSurfaceInfo(Integer, Integer, DdsFormat, Integer, Integer, Integer)
 - uid: JeremyAnsel.Media.Dds.DdsHelpers.GetSurfaceInfo*
   name: GetSurfaceInfo
   href: api/JeremyAnsel.Media.Dds.DdsHelpers.html#JeremyAnsel_Media_Dds_DdsHelpers_GetSurfaceInfo_
