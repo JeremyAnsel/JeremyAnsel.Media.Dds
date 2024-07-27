@@ -10,6 +10,7 @@ namespace JeremyAnsel.Media.Dds
         internal DdsFile()
         {
             this.PixelFormat = new DdsPixelFormat();
+            this.Data = Array.Empty<byte>();
         }
 
         public DdsOptions Options { get; private set; }
