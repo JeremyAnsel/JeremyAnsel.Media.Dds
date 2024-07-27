@@ -13,3 +13,9 @@ Documentation   | http://jeremyansel.github.io/JeremyAnsel.Media.Dds
 Source code     | https://github.com/JeremyAnsel/JeremyAnsel.Media.Dds
 Nuget           | https://www.nuget.org/packages/JeremyAnsel.Media.Dds
 Build           | https://ci.appveyor.com/project/JeremyAnsel/jeremyansel-media-dds/branch/master
+
+# Usage
+
+```csharp
+DdsFile file = DdsFile.FromFile(fileName);
+```
