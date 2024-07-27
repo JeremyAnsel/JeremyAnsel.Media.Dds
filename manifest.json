@@ -1,5 +1,4 @@
 {
-  "homepages": [],
   "source_base_path": "C:/projects/jeremyansel-media-dds/JeremyAnsel.Media.Dds/Documentation",
   "xrefmap": "xrefmap.yml",
   "files": [
@@ -16,8 +15,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.Dds.DdsAdditionalCaps.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.Dds.DdsAdditionalCaps.html",
-          "hash": "wzYWi4CAhqaBUSomwPMlsnjXbOKgs7f/lbqQYlr1bnw="
+          "relative_path": "api/JeremyAnsel.Media.Dds.DdsAdditionalCaps.html"
         }
       },
       "version": ""
@@ -27,8 +25,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.Dds.DdsAlphaMode.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.Dds.DdsAlphaMode.html",
-          "hash": "HfR17XtKDe0gCy3ryqBo/KEXWEIpG/XSC+8b/8k/Pb4="
+          "relative_path": "api/JeremyAnsel.Media.Dds.DdsAlphaMode.html"
         }
       },
       "version": ""
@@ -38,8 +35,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.Dds.DdsCaps.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.Dds.DdsCaps.html",
-          "hash": "p/zqv6Jl42zzk4pv+PC4lBG+yL9jLZMXejHwzchAi78="
+          "relative_path": "api/JeremyAnsel.Media.Dds.DdsCaps.html"
         }
       },
       "version": ""
@@ -49,8 +45,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.Dds.DdsFile.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.Dds.DdsFile.html",
-          "hash": "IW4IU+IlfHOw48bJmICKZJdSSD6qO5XeORqLEkRx7es="
+          "relative_path": "api/JeremyAnsel.Media.Dds.DdsFile.html"
         }
       },
       "version": ""
@@ -60,8 +55,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.Dds.DdsFormat.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.Dds.DdsFormat.html",
-          "hash": "T/+MUgKXXVgs0Tz8PujsYhoW0/+a63P+GjKLdWi2rF8="
+          "relative_path": "api/JeremyAnsel.Media.Dds.DdsFormat.html"
         }
       },
       "version": ""
@@ -71,8 +65,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.Dds.DdsFourCC.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.Dds.DdsFourCC.html",
-          "hash": "JkLQm8Ia4oMD5Dhylq7FHPGcx1A3gj7FmcNcuEMWbVY="
+          "relative_path": "api/JeremyAnsel.Media.Dds.DdsFourCC.html"
         }
       },
       "version": ""
@@ -82,8 +75,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.Dds.DdsHelpers.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.Dds.DdsHelpers.html",
-          "hash": "OuheTw96vL8oigK0jErM7DdBvUD29F8y4/Kx7TuVLmo="
+          "relative_path": "api/JeremyAnsel.Media.Dds.DdsHelpers.html"
         }
       },
       "version": ""
@@ -93,8 +85,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.Dds.DdsOptions.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.Dds.DdsOptions.html",
-          "hash": "+6EEMHBtT30WxbOZWGNzfs8zAhWqQN4TGLo0RkNvq/k="
+          "relative_path": "api/JeremyAnsel.Media.Dds.DdsOptions.html"
         }
       },
       "version": ""
@@ -104,8 +95,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.Dds.DdsPixelFormat.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.Dds.DdsPixelFormat.html",
-          "hash": "5hFoJoA4xrXt/X7AGbKz9kDHIiIkRjrXHLGOWfU9U54="
+          "relative_path": "api/JeremyAnsel.Media.Dds.DdsPixelFormat.html"
         }
       },
       "version": ""
@@ -115,8 +105,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.Dds.DdsPixelFormatOptions.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.Dds.DdsPixelFormatOptions.html",
-          "hash": "q+4yxE35M7FJAu/Fe9RbWpcpVcLG8xZNk0RA4lRcVIY="
+          "relative_path": "api/JeremyAnsel.Media.Dds.DdsPixelFormatOptions.html"
         }
       },
       "version": ""
@@ -126,8 +115,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.Dds.DdsResourceDimension.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.Dds.DdsResourceDimension.html",
-          "hash": "Q2+ez2O2GSUSvECWMJxeEyFysujTtTbSksdcEu1eolU="
+          "relative_path": "api/JeremyAnsel.Media.Dds.DdsResourceDimension.html"
         }
       },
       "version": ""
@@ -137,8 +125,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.Dds.DdsResourceMiscOptions.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.Dds.DdsResourceMiscOptions.html",
-          "hash": "lsbOqNe6hSs/+U2/64VrEr2AFjqyNDoMl5bKocjADoY="
+          "relative_path": "api/JeremyAnsel.Media.Dds.DdsResourceMiscOptions.html"
         }
       },
       "version": ""
@@ -148,8 +135,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.Dds.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.Dds.html",
-          "hash": "JQPrptb9r0ZLRMuFfcDbbart8abvppajGjWTIUR2L8g="
+          "relative_path": "api/JeremyAnsel.Media.Dds.html"
         }
       },
       "version": ""
@@ -159,8 +145,17 @@
       "source_relative_path": "api/index.md",
       "output": {
         ".html": {
-          "relative_path": "api/index.html",
-          "hash": "kNc9lccjnU7/yNda+4t/K+kLkLK6CtwSOYbP491Hxk8="
+          "relative_path": "api/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "api/toc.json"
         }
       },
       "version": ""
@@ -170,14 +165,22 @@
       "source_relative_path": "index.md",
       "output": {
         ".html": {
-          "relative_path": "index.html",
-          "hash": "YIftVsisJZJ2ajjcH230McTjapDHgDpk/XvqBH8GT6A="
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "toc.json"
         }
       },
       "version": ""
     }
   ],
-  "version_info": {},
   "groups": [
     {
       "xrefmap": "xrefmap.yml"
